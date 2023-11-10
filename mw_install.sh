@@ -15,6 +15,6 @@ done < input.csv
 
 adb logcat -d > logcat.txt
 
-echo "Script finalizado!. Logcat salvo em logcat.txt"
+echo "Script finalizado!. Logs salvos em logcat.txt"
 
 #salva os logs do último scan no arquivo local
