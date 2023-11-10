@@ -1,0 +1,901 @@
+Dr.Web Light
+Version: 12.2.1.19124
+Device model: Pocophone F1
+Firmware version: 13
+Kernel version: Unavailable
+Android OS build number: TQ3C.230901.001.B1
+Root: SU
+TestKeysBuild: no
+TV: no
+Language: pt
+Last database update: 22/10/2023 23:37
+Number of virus record in database: 1872
+First virus database timestamp: 1697981713
+Virus bases: 
+m3today.vdb Sun Oct 22 10:35:13 2023, records: 1872
+m3addon37.vdb Tue Sep  5 03:53:10 2023, records: 2522
+m3addon36.vdb Tue Jul 18 03:34:29 2023, records: 2531
+m3addon35.vdb Tue Jun  6 03:34:13 2023, records: 2585
+m3addon34.vdb Tue Apr 25 03:33:43 2023, records: 2980
+m3addon33.vdb Tue Feb 14 03:33:36 2023, records: 2433
+m3addon32.vdb Tue Dec  6 03:34:19 2022, records: 2370
+m3addon31.vdb Tue Oct 11 03:33:20 2022, records: 2449
+m3addon30.vdb Tue Jul 19 03:35:09 2022, records: 2784
+m3addon29.vdb Tue Jun 28 03:36:30 2022, records: 2724
+m3addon28.vdb Tue May  3 03:36:59 2022, records: 4311
+m3addon27.vdb Tue Mar 22 03:36:05 2022, records: 3124
+m3addon26.vdb Tue Mar  1 03:35:37 2022, records: 3421
+m3addon25.vdb Tue Feb  8 03:34:21 2022, records: 3065
+m3addon24.vdb Tue Jan 25 03:35:44 2022, records: 3017
+m3addon23.vdb Tue Jan 11 03:35:06 2022, records: 3793
+m3addon22.vdb Tue Dec  7 03:37:31 2021, records: 3014
+m3addon21.vdb Tue Oct 19 03:36:48 2021, records: 2858
+m3addon20.vdb Tue Sep 21 03:34:06 2021, records: 3650
+m3addon19.vdb Tue Aug 10 03:34:31 2021, records: 2545
+m3addon18.vdb Tue Jul 20 03:33:39 2021, records: 2774
+m3addon17.vdb Tue May  4 03:34:18 2021, records: 2802
+m3addon16.vdb Tue Mar  2 03:31:30 2021, records: 2557
+m3addon15.vdb Tue Jan 19 03:32:16 2021, records: 4218
+m3addon14.vdb Tue Nov 17 03:29:45 2020, records: 2069
+m3addon13.vdb Tue Sep  8 03:27:32 2020, records: 2717
+m3addon12.vdb Tue Aug  4 03:27:19 2020, records: 2680
+m3addon11.vdb Tue Jul 21 03:26:48 2020, records: 2173
+m3addon10.vdb Tue Jun  9 03:29:00 2020, records: 2380
+m3addon09.vdb Tue Apr 21 03:29:58 2020, records: 2961
+m3addon08.vdb Wed Feb 26 17:55:13 2020, records: 7053
+m3addon07.vdb Wed Dec 11 09:15:42 2019, records: 7432
+m3addon06.vdb Tue Nov 12 03:29:59 2019, records: 3302
+m3addon05.vdb Tue Oct 22 03:28:30 2019, records: 3405
+m3addon04.vdb Tue Oct  1 03:28:25 2019, records: 2546
+m3addon03.vdb Tue Sep  3 03:26:46 2019, records: 2997
+m3addon02.vdb Tue Aug  6 08:37:13 2019, records: 3811
+m3addon01.vdb Wed Jul 17 11:49:26 2019, records: 9227
+m3addon00.vdb Tue Feb 13 10:41:23 2018, records: 177534
+
+Setting: StartMonitor = true
+Setting: AutomaticUpdate = true
+Setting: SpIDer Guard check archives = true
+Setting: SpIDer Guard SD-card mounting  = false
+Setting: Scanner check archives = true
+Setting: StateSign = true
+Setting: WidgetNotification = true
+Setting: NoThreats = true
+Monitor: LastRestart = 1698028832592
+Monitor: RestartCount = 1
+
+InstallPath: /data/app/~~I43iNgIliAIGU-g-4iQ_0g==/com.drweb-gkUlrZ_Mh8Qt4qTtGZtyyQ==/base.apk
+--------- beginning of main
+10-22 23:46:36.943 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:36.943 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:39.040 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:39.509 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:39.509 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:42.400 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:42.883 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:42.883 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:44.600 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:45.077 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:45.077 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:46.599 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:47.078 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:47.078 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:48.720 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:49.182 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:49.182 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:54.147 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:54.642 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:54.642 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:56.255 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:56.719 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:56.719 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:46:58.774 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:46:59.236 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:46:59.236 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:01.454 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:01.944 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:01.944 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:05.596 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:06.089 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:06.089 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:07.338 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:07.822 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:07.822 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:08.090 16120 24611 W ziparchive: Unable to open '/data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.appui.sole_v1001.apk': No such file or directory
+10-22 23:47:08.090 16120 24611 E com.drweb: Failed to open APK '/data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.appui.sole_v1001.apk': I/O error
+10-22 23:47:08.090 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:47:08.090 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.appui.sole_v1001.apk
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:47:08.090 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:47:08.221 16120 24611 W ziparchive: Unable to open '/data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk': No such file or directory
+10-22 23:47:08.221 16120 24611 E com.drweb: Failed to open APK '/data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk': I/O error
+10-22 23:47:08.221 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:47:08.221 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~aNYZKaLskbERD2S2I-a06w==/com.jr.narutoii--FgFwwnorrQ2CHcQAkK9gg==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:47:08.221 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:47:11.021 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:11.514 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:11.514 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:12.722 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:13.198 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:13.198 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:14.602 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:15.086 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:15.086 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:16.288 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:16.781 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:16.781 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:17.009 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:17.501 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:17.501 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:19.162 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:19.640 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:19.640 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:20.001 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:20.471 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:20.471 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:20.487 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:20.980 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:20.980 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:21.291 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:21.784 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:21.784 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:23.523 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:24.016 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:24.016 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:24.282 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:24.772 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:24.772 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:25.244 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:25.736 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:25.736 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:29.295 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:29.787 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:29.787 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:30.240 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:30.727 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:30.727 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:31.361 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:31.848 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:31.848 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:33.481 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:33.974 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:33.974 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:34.089 16120 24611 W ziparchive: Unable to open '/data/app/~~irzt6c4mXxP2jukODV_8ig==/com.ck.services-K5MniitYy4GH5xOCb6JfHQ==/base.apk:lqads.data': No such file or directory
+10-22 23:47:34.089 16120 24611 E com.drweb: Failed to open APK '/data/app/~~irzt6c4mXxP2jukODV_8ig==/com.ck.services-K5MniitYy4GH5xOCb6JfHQ==/base.apk:lqads.data': I/O error
+10-22 23:47:34.090 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:47:34.090 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~irzt6c4mXxP2jukODV_8ig==/com.ck.services-K5MniitYy4GH5xOCb6JfHQ==/base.apk:lqads.data
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:47:34.090 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:47:36.163 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:36.656 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:36.656 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:36.845 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:37.339 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:37.339 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:39.240 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:39.715 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:39.715 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:40.921 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:41.404 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:41.404 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:44.433 16120 24611 W ziparchive: Unable to open '/data/app/~~wQl4O60VkVnU6CJDyHCLAA==/com.zhiqupk.root.global-4Ro49FMnz3hV3vEwrQduOw==/base.apk:res/raw/cjyh': No such file or directory
+10-22 23:47:44.433 16120 24611 E com.drweb: Failed to open APK '/data/app/~~wQl4O60VkVnU6CJDyHCLAA==/com.zhiqupk.root.global-4Ro49FMnz3hV3vEwrQduOw==/base.apk:res/raw/cjyh': I/O error
+10-22 23:47:44.434 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:47:44.434 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~wQl4O60VkVnU6CJDyHCLAA==/com.zhiqupk.root.global-4Ro49FMnz3hV3vEwrQduOw==/base.apk:res/raw/cjyh
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:47:44.434 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:47:47.469 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:47.962 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:47.962 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:48.251 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:48.719 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:48.719 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:50.051 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:50.539 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:50.539 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:52.931 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:53.398 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:53.398 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:55.291 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:55.780 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:55.780 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:57.211 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:47:57.703 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:47:57.703 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:47:59.656 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:00.149 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:00.149 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:01.771 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:02.242 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:02.242 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:05.051 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:05.471 16120 24611 W ziparchive: Unable to open '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk': No such file or directory
+10-22 23:48:05.471 16120 24611 E com.drweb: Failed to open APK '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk': I/O error
+10-22 23:48:05.472 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:05.472 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:05.472 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:05.523 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:05.523 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:05.524 16120 24611 W ziparchive: Unable to open '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk:googlemessage.apk': No such file or directory
+10-22 23:48:05.524 16120 24611 E com.drweb: Failed to open APK '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk:googlemessage.apk': I/O error
+10-22 23:48:05.524 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:05.524 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googlemessage.apk:googlemessage.apk
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:05.524 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:05.574 16120 24611 W ziparchive: Unable to open '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googleservice.apk': No such file or directory
+10-22 23:48:05.574 16120 24611 E com.drweb: Failed to open APK '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googleservice.apk': I/O error
+10-22 23:48:05.575 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:05.575 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/googleservice.apk
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:05.575 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:05.654 16120 24611 W ziparchive: Unable to open '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/unlock.apk': No such file or directory
+10-22 23:48:05.654 16120 24611 E com.drweb: Failed to open APK '/data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/unlock.apk': I/O error
+10-22 23:48:05.654 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:05.654 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~om5hugfAMNua0382x7XmpQ==/android.dds.com-2Qhvw0UekFH1-g_G2G0YUg==/base.apk:res/raw/unlock.apk
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:05.654 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:05.772 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:06.265 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:06.265 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:08.097 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:08.589 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:08.589 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:09.451 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:09.693 16120 20253 W MediaPlayer-JNI: MediaPlayer finalized without being released
+10-22 23:48:15.064 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:15.557 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:15.557 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:20.814 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:21.307 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:21.307 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:21.690 16120 24611 W ziparchive: Unable to open '/data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2006.apk': No such file or directory
+10-22 23:48:21.690 16120 24611 E com.drweb: Failed to open APK '/data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2006.apk': I/O error
+10-22 23:48:21.690 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:21.690 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2006.apk
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:21.690 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:23.145 16120 24611 W ziparchive: Unable to open '/data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk': No such file or directory
+10-22 23:48:23.145 16120 24611 E com.drweb: Failed to open APK '/data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk': I/O error
+10-22 23:48:23.146 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:23.146 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~e1pURQRuaquZ6FlCj5rGQQ==/com.uc108.mobile.sdgj.bd1-6uEUTb4kgU_HlOuipcjEzw==/base.apk:assets/com.skymobi.pay.opplugin_V2009.apk
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:23.146 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:26.711 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:27.202 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:27.202 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:27.276 16120 24611 W ziparchive: Unable to open '/data/app/~~d097yiCU_uq2irLq0vbvxQ==/pj.ishuaji-Z5_lnvBNrigofddFUG3tng==/base.apk:res/raw/superuser.apk:superuser.apk': No such file or directory
+10-22 23:48:27.276 16120 24611 E com.drweb: Failed to open APK '/data/app/~~d097yiCU_uq2irLq0vbvxQ==/pj.ishuaji-Z5_lnvBNrigofddFUG3tng==/base.apk:res/raw/superuser.apk:superuser.apk': I/O error
+10-22 23:48:27.276 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:27.276 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~d097yiCU_uq2irLq0vbvxQ==/pj.ishuaji-Z5_lnvBNrigofddFUG3tng==/base.apk:res/raw/superuser.apk:superuser.apk
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:27.276 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:29.930 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:30.397 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:30.397 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:30.930 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:31.397 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:31.397 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:32.890 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:33.378 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:33.379 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:33.892 16120 24611 W ziparchive: Unable to open '/data/app/~~QOpWhLknsjuOUq3JmeTo5w==/com.keji.danti420--zczT71DXUP6QpR06gAyKw==/base.apk:assets/anserverb': No such file or directory
+10-22 23:48:33.892 16120 24611 E com.drweb: Failed to open APK '/data/app/~~QOpWhLknsjuOUq3JmeTo5w==/com.keji.danti420--zczT71DXUP6QpR06gAyKw==/base.apk:assets/anserverb': I/O error
+10-22 23:48:33.892 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:33.892 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~QOpWhLknsjuOUq3JmeTo5w==/com.keji.danti420--zczT71DXUP6QpR06gAyKw==/base.apk:assets/anserverb
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:33.892 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:33.898 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:34.396 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:34.396 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:35.491 16120 24611 W ziparchive: Unable to open '/data/app/~~u_LCYg--PD9gPvd5Fn2brA==/com.keji.danti424-i4nxobQRKCB247Dhrqq8lw==/base.apk:assets/anserverb': No such file or directory
+10-22 23:48:35.491 16120 24611 E com.drweb: Failed to open APK '/data/app/~~u_LCYg--PD9gPvd5Fn2brA==/com.keji.danti424-i4nxobQRKCB247Dhrqq8lw==/base.apk:assets/anserverb': I/O error
+10-22 23:48:35.492 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:35.492 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~u_LCYg--PD9gPvd5Fn2brA==/com.keji.danti424-i4nxobQRKCB247Dhrqq8lw==/base.apk:assets/anserverb
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:35.492 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:35.496 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:35.988 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:35.988 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:37.072 16120 24611 W ziparchive: Unable to open '/data/app/~~ikwfS4L3Ff0QUUOVX_OfaQ==/com.keji.danti672-smZ82FP88oDKwbJKLLQKxQ==/base.apk:assets/anservera.db': No such file or directory
+10-22 23:48:37.072 16120 24611 E com.drweb: Failed to open APK '/data/app/~~ikwfS4L3Ff0QUUOVX_OfaQ==/com.keji.danti672-smZ82FP88oDKwbJKLLQKxQ==/base.apk:assets/anservera.db': I/O error
+10-22 23:48:37.073 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:37.073 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~ikwfS4L3Ff0QUUOVX_OfaQ==/com.keji.danti672-smZ82FP88oDKwbJKLLQKxQ==/base.apk:assets/anservera.db
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:37.073 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:37.090 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:37.579 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:37.579 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:39.218 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:39.711 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:39.711 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:40.490 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:40.967 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:40.967 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:41.051 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:41.545 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:41.545 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:42.690 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:43.183 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:43.183 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:43.970 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:44.458 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:44.458 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:44.613 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:45.090 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:45.090 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:45.650 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:45.868 16120 20253 W MediaPlayer-JNI: MediaPlayer finalized without being released
+10-22 23:48:47.812 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:48.295 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:48.295 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:48.690 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:48.720 16120 24611 W ziparchive: Unable to open '/data/app/~~7K8d5Nro55E53DhfGdlCxQ==/cmf0.c3b5bm90zq.patch-2ZVwc92jTmFFWDNbRDWXUQ==/base.apk:res/raw/google.apk': No such file or directory
+10-22 23:48:48.720 16120 24611 E com.drweb: Failed to open APK '/data/app/~~7K8d5Nro55E53DhfGdlCxQ==/cmf0.c3b5bm90zq.patch-2ZVwc92jTmFFWDNbRDWXUQ==/base.apk:res/raw/google.apk': I/O error
+10-22 23:48:48.721 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:48:48.721 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~7K8d5Nro55E53DhfGdlCxQ==/cmf0.c3b5bm90zq.patch-2ZVwc92jTmFFWDNbRDWXUQ==/base.apk:res/raw/google.apk
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at ââåäà.ààààà(SourceFile:61)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1070)
+10-22 23:48:48.721 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:48:49.163 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:49.163 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:51.649 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:52.125 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:52.125 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:48:52.490 16120 16120 W AidlConversion: aidl2legacy_AudioChannelLayout_audio_channel_mask_t: no legacy output audio_channel_mask_t found for AudioChannelLayout{layoutMask: 16}
+10-22 23:48:52.968 16120 16120 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+10-22 23:48:52.968 16120 16120 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+10-22 23:49:46.078 16120 20277 W OpenGLRenderer: dequeueBuffer failed, error = -110; switching to fallback
+10-22 23:50:35.942 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/AdsDynamite.apk': No such file or directory
+10-22 23:50:35.942 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/AdsDynamite.apk': I/O error
+10-22 23:50:35.942 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:35.942 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/AdsDynamite.apk
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:35.942 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:36.597 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/CronetDynamite.apk': No such file or directory
+10-22 23:50:36.597 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/CronetDynamite.apk': I/O error
+10-22 23:50:36.597 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:36.597 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/CronetDynamite.apk
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:36.597 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:37.780 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteLoader.apk': No such file or directory
+10-22 23:50:37.780 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteLoader.apk': I/O error
+10-22 23:50:37.780 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:37.780 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteLoader.apk
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:37.780 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:38.635 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesA.apk': No such file or directory
+10-22 23:50:38.635 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesA.apk': I/O error
+10-22 23:50:38.635 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:38.635 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesA.apk
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:38.635 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:39.693 20316 20354 I AppMetrica-Attribution: Choosing clids. Client: null, from satellite: SatelliteClidsInfo{clids=null, checked=true}, result: ClidsInfo{clids=null, source=API}
+10-22 23:50:41.429 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesC.apk': No such file or directory
+10-22 23:50:41.429 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesC.apk': I/O error
+10-22 23:50:41.429 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:41.429 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/DynamiteModulesC.apk
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:41.429 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:44.325 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/GoogleCertificates.apk': No such file or directory
+10-22 23:50:44.325 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/GoogleCertificates.apk': I/O error
+10-22 23:50:44.326 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:44.326 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/GoogleCertificates.apk
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:44.326 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:45.271 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MapsDynamite.apk': No such file or directory
+10-22 23:50:45.271 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MapsDynamite.apk': I/O error
+10-22 23:50:45.272 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:45.272 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MapsDynamite.apk
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:45.272 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:50:48.858 16120 24611 W ziparchive: Unable to open '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MeasurementDynamite.apk': No such file or directory
+10-22 23:50:48.858 16120 24611 E com.drweb: Failed to open APK '/data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MeasurementDynamite.apk': I/O error
+10-22 23:50:48.859 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:50:48.859 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /data/app/~~WeIHtE0XlhgZVSHTr06CRQ==/com.google.android.gms-NFb7ir-o0JK4xtD7j64c7Q==/base.apk:assets/chimera-modules/MeasurementDynamite.apk
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at ââåäà.âàààà(SourceFile:61)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1088)
+10-22 23:50:48.859 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:51:45.924 16120 16120 W DrWebScaner: type=1400 audit(0.0:6140): avc: denied { read } for name="/" dev="sde48" ino=2 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:rootfs:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:51:47.574 16120 16120 W DrWebScaner: type=1400 audit(0.0:6141): avc: denied { getattr } for path="/system/lib/bootstrap" dev="sde48" ino=2612 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:system_bootstrap_lib_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:51:47.574 16120 16120 W DrWebScaner: type=1400 audit(0.0:6142): avc: denied { getattr } for path="/system/lib/bootstrap" dev="sde48" ino=2612 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:system_bootstrap_lib_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:52:09.806 20316 20360 D TrafficStats: tagSocket(77) with statsTag=0xffffffff, statsUid=-1
+10-22 23:52:19.957 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:19.957 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to collect certificates from /system/product/priv-app/AndroidPlatformServices/AndroidPlatformServices.apk
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.collectCertificates(PackageParser.java:1435)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.collectCertificatesInternal(PackageParser.java:1401)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.collectCertificates(PackageParser.java:1387)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8069)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:19.957 16120 24611 W PackageManager: Caused by: java.lang.SecurityException: META-INF/CERT.SF indicates /system/product/priv-app/AndroidPlatformServices/AndroidPlatformServices.apk is signed using APK Signature Scheme v2, but no such signature was found. Signature stripped?
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.jar.StrictJarVerifier.verifyCertificate(StrictJarVerifier.java:437)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.jar.StrictJarVerifier.readCertificates(StrictJarVerifier.java:311)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.jar.StrictJarFile.<init>(StrictJarFile.java:128)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.jar.StrictJarFile.<init>(StrictJarFile.java:86)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.apk.ApkSignatureVerifier.verifyV1Signature(ApkSignatureVerifier.java:374)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.apk.ApkSignatureVerifier.verifyV3AndBelowSignatures(ApkSignatureVerifier.java:180)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.apk.ApkSignatureVerifier.verifySignaturesInternal(ApkSignatureVerifier.java:135)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.apk.ApkSignatureVerifier.verifySignatures(ApkSignatureVerifier.java:93)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.util.apk.ApkSignatureVerifier.verify(ApkSignatureVerifier.java:72)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.collectCertificates(PackageParser.java:1431)
+10-22 23:52:19.957 16120 24611 W PackageManager: 	... 12 more
+10-22 23:52:45.313 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/AdsDynamite.apk': No such file or directory
+10-22 23:52:45.313 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/AdsDynamite.apk': I/O error
+10-22 23:52:45.313 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:45.313 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/AdsDynamite.apk
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:45.313 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:45.790 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/CronetDynamite.apk': No such file or directory
+10-22 23:52:45.791 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/CronetDynamite.apk': I/O error
+10-22 23:52:45.791 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:45.791 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/CronetDynamite.apk
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:45.791 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:46.629 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteLoader.apk': No such file or directory
+10-22 23:52:46.629 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteLoader.apk': I/O error
+10-22 23:52:46.629 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:46.629 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteLoader.apk
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:46.629 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:47.493 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesA.apk': No such file or directory
+10-22 23:52:47.494 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesA.apk': I/O error
+10-22 23:52:47.494 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:47.494 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesA.apk
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:47.494 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:49.980 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesC.apk': No such file or directory
+10-22 23:52:49.980 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesC.apk': I/O error
+10-22 23:52:49.980 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:49.980 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/DynamiteModulesC.apk
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:49.980 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:52.515 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/GoogleCertificates.apk': No such file or directory
+10-22 23:52:52.515 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/GoogleCertificates.apk': I/O error
+10-22 23:52:52.515 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:52.515 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/GoogleCertificates.apk
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:52.515 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:53.457 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MapsDynamite.apk': No such file or directory
+10-22 23:52:53.458 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MapsDynamite.apk': I/O error
+10-22 23:52:53.458 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:53.458 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MapsDynamite.apk
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:53.458 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:52:56.880 16120 24611 W ziparchive: Unable to open '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MeasurementDynamite.apk': No such file or directory
+10-22 23:52:56.880 16120 24611 E com.drweb: Failed to open APK '/system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MeasurementDynamite.apk': I/O error
+10-22 23:52:56.881 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:52:56.881 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: Failed to parse /system/product/priv-app/GmsCore/GmsCore.apk:assets/chimera-modules/MeasurementDynamite.apk
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLiteInner(PackageParser.java:1503)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseApkLite(PackageParser.java:1474)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackageLite(PackageParser.java:980)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1189)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:52:56.881 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:53:52.200 16120 20277 W OpenGLRenderer: dequeueBuffer failed, error = -110; switching to fallback
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6143): avc: denied { getattr } for path="/system/product/etc/selinux/product_service_contexts" dev="sde48" ino=4012 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:service_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6144): avc: denied { getattr } for path="/system/product/etc/selinux/product_service_contexts" dev="sde48" ino=4012 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:service_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6145): avc: denied { getattr } for path="/system/product/etc/selinux/product_seapp_contexts" dev="sde48" ino=4009 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:seapp_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6146): avc: denied { getattr } for path="/system/product/etc/selinux/product_seapp_contexts" dev="sde48" ino=4009 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:seapp_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6147): avc: denied { getattr } for path="/system/product/etc/selinux/product_hwservice_contexts" dev="sde48" ino=4006 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6148): avc: denied { getattr } for path="/system/product/etc/selinux/product_hwservice_contexts" dev="sde48" ino=4006 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:54:51.224 16120 16120 W DrWebScaner: type=1400 audit(0.0:6149): avc: denied { getattr } for path="/system/product/etc/selinux/product_file_contexts" dev="sde48" ino=4005 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:file_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:21.294 16120 16120 W DrWebScaner: type=1400 audit(0.0:6153): avc: denied { getattr } for path="/system/lib64/bootstrap" dev="sde48" ino=3085 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:system_bootstrap_lib_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:21.294 16120 16120 W DrWebScaner: type=1400 audit(0.0:6154): avc: denied { getattr } for path="/system/lib64/bootstrap" dev="sde48" ino=3085 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:system_bootstrap_lib_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:34.259 16120 16120 I DrWeb   : DrWeb_922
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6155): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_29.json" dev="sde48" ino=1973 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6156): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_29.json" dev="sde48" ino=1973 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6157): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_28.json" dev="sde48" ino=1972 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6158): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_28.json" dev="sde48" ino=1972 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6159): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_30.json" dev="sde48" ino=1974 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.304 16120 16120 W DrWebScaner: type=1400 audit(0.0:6160): avc: denied { getattr } for path="/system/etc/task_profiles/cgroups_30.json" dev="sde48" ino=1974 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_api_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.904 16120 16120 W DrWebScaner: type=1400 audit(0.0:6161): avc: denied { getattr } for path="/system/etc/cgroups.json" dev="sde48" ino=1665 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:39.904 16120 16120 W DrWebScaner: type=1400 audit(0.0:6162): avc: denied { getattr } for path="/system/etc/cgroups.json" dev="sde48" ino=1665 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:cgroup_desc_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:41.014 16120 16120 W DrWebScaner: type=1400 audit(0.0:6163): avc: denied { getattr } for path="/system/etc/selinux/plat_hwservice_contexts" dev="sde48" ino=1952 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:41.014 16120 16120 W DrWebScaner: type=1400 audit(0.0:6164): avc: denied { getattr } for path="/system/etc/selinux/plat_hwservice_contexts" dev="sde48" ino=1952 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:41.014 16120 16120 W DrWebScaner: type=1400 audit(0.0:6165): avc: denied { getattr } for path="/system/etc/selinux/plat_sepolicy.cil" dev="sde48" ino=1957 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:sepolicy_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:41.014 16120 16120 W DrWebScaner: type=1400 audit(0.0:6166): avc: denied { getattr } for path="/system/etc/selinux/plat_sepolicy.cil" dev="sde48" ino=1957 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:sepolicy_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:41.014 16120 16120 W DrWebScaner: type=1400 audit(0.0:6167): avc: denied { getattr } for path="/system/etc/selinux/plat_seapp_contexts" dev="sde48" ino=1956 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:seapp_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:45.826 16120 24611 W PackageManager: Failure to parse package archive
+10-22 23:55:45.826 16120 24611 W PackageManager: android.content.pm.PackageParser$PackageParserException: /system/framework/framework-res.apk (at Binary XML file line #818): <permission>  protectionLevel specifies a non-instant flag but is not based on signature type
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseBaseApk(PackageParser.java:1240)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parseMonolithicPackage(PackageParser.java:1199)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at android.content.pm.PackageParser.parsePackage(PackageParser.java:1103)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8067)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at android.content.pm.PackageManager.getPackageArchiveInfo(PackageManager.java:8044)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at com.drweb.engine.SDK.scanFile(Native Method)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at âãáàá.äãáàà(SourceFile:27)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at âãáàá.åãáàà(SourceFile:46)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at äâãâà.âàààà(SourceFile:119)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at äâãâà.áàààà(SourceFile:15)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at äâãâà.ãàààà(SourceFile:33)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at âãáàá$àáààà.run(SourceFile:1111)
+10-22 23:55:45.826 16120 24611 W PackageManager: 	at java.lang.Thread.run(Thread.java:1012)
+10-22 23:55:54.094 16120 16120 W DrWebScaner: type=1400 audit(0.0:6189): avc: denied { getattr } for path="/mnt/pass_through" dev="tmpfs" ino=11877 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:mnt_pass_through_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:54.094 16120 16120 W DrWebScaner: type=1400 audit(0.0:6190): avc: denied { getattr } for path="/mnt/pass_through" dev="tmpfs" ino=11877 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:mnt_pass_through_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:54.094 16120 16120 W DrWebScaner: type=1400 audit(0.0:6191): avc: denied { getattr } for path="/mnt/media_rw" dev="tmpfs" ino=11872 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:mnt_media_rw_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:54.094 16120 16120 W DrWebScaner: type=1400 audit(0.0:6192): avc: denied { getattr } for path="/mnt/media_rw" dev="tmpfs" ino=11872 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:mnt_media_rw_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:54.104 16120 16120 W DrWebScaner: type=1400 audit(0.0:6193): avc: denied { getattr } for path="/mnt/product" dev="tmpfs" ino=11660 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:mnt_product_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:55.464 16120 16120 W DrWebScaner: type=1400 audit(0.0:7357): avc: denied { getattr } for path="/vendor/etc/selinux/vendor_service_contexts" dev="sde47" ino=561 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_service_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:55.464 16120 16120 W DrWebScaner: type=1400 audit(0.0:7358): avc: denied { getattr } for path="/vendor/etc/selinux/vendor_service_contexts" dev="sde47" ino=561 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_service_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:56.414 16120 16120 W DrWebScaner: type=1400 audit(0.0:7359): avc: denied { getattr } for path="/vendor/etc/cgroups.json" dev="sde47" ino=355 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_cgroup_desc_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:56.414 16120 16120 W DrWebScaner: type=1400 audit(0.0:7360): avc: denied { getattr } for path="/vendor/etc/cgroups.json" dev="sde47" ino=355 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_cgroup_desc_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:56.464 16120 16120 W DrWebScaner: type=1400 audit(0.0:7361): avc: denied { getattr } for path="/vendor/build.prop" dev="sde47" ino=303 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:56.964 16120 16120 W DrWebScaner: type=1400 audit(0.0:7381): avc: denied { getattr } for path="/vendor/dsp" dev="sde44" ino=2 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:adsprpcd_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:56.964 16120 16120 W DrWebScaner: type=1400 audit(0.0:7382): avc: denied { getattr } for path="/vendor/dsp" dev="sde44" ino=2 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:adsprpcd_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:56.964 16120 16120 W DrWebScaner: type=1400 audit(0.0:7383): avc: denied { getattr } for path="/vendor/bt_firmware" dev="sde24" ino=1 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:bt_firmware_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:56.964 16120 16120 W DrWebScaner: type=1400 audit(0.0:7384): avc: denied { getattr } for path="/vendor/bt_firmware" dev="sde24" ino=1 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:bt_firmware_file:s0 tclass=dir permissive=0 app=com.drweb
+10-22 23:55:56.984 16120 16120 W DrWebScaner: type=1400 audit(0.0:7385): avc: denied { getattr } for path="/vendor/lib64/android.frameworks.sensorservice@1.0.so" dev="sde47" ino=1293 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:vendor_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.604 16120 16120 W DrWebScaner: type=1400 audit(0.0:8415): avc: denied { getattr } for path="/system/etc/selinux/plat_hwservice_contexts" dev="sde48" ino=1952 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.604 16120 16120 W DrWebScaner: type=1400 audit(0.0:8416): avc: denied { getattr } for path="/system/etc/selinux/plat_hwservice_contexts" dev="sde48" ino=1952 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:hwservice_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.604 16120 16120 W DrWebScaner: type=1400 audit(0.0:8417): avc: denied { getattr } for path="/system/etc/selinux/plat_sepolicy.cil" dev="sde48" ino=1957 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:sepolicy_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.604 16120 16120 W DrWebScaner: type=1400 audit(0.0:8418): avc: denied { getattr } for path="/system/etc/selinux/plat_sepolicy.cil" dev="sde48" ino=1957 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:sepolicy_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.604 16120 16120 W DrWebScaner: type=1400 audit(0.0:8419): avc: denied { getattr } for path="/system/etc/selinux/plat_seapp_contexts" dev="sde48" ino=1956 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:seapp_contexts_file:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:55:58.656 16120 24611 I DrWeb   : Files scanned:  4276
+10-22 23:55:58.657 16120 24611 I DrWeb   : 11:59
+10-22 23:56:40.769 16120 20277 W Parcel  : Expecting binder but got null!
+10-22 23:56:40.787 16120 20277 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-22 23:56:45.673 16120 20277 W Parcel  : Expecting binder but got null!
+10-22 23:56:45.687 16120 20277 E OpenGLRenderer: Unable to match the desired swap behavior.
+10-22 23:56:46.620 16120 16120 I DrWeb   : DrWeb_769 fPDNzSKsTSS
+10-22 23:56:46.940 16120 20277 D OpenGLRenderer: endAllActiveAnimators on 0x741ee0c500 (âåáäà$ààààà) with handle 0x7497800f80
+10-22 23:56:48.674 16120 16120 W com.drweb: type=1400 audit(0.0:8441): avc: denied { read } for comm=4173796E635461736B20233530 name="version" dev="proc" ino=4026532112 scontext=u:r:untrusted_app_30:s0:c197,c256,c512,c768 tcontext=u:object_r:proc_version:s0 tclass=file permissive=0 app=com.drweb
+10-22 23:56:48.688 16120 26079 D DrWeb   : IO Exception when getting kernel version for Device Info screen

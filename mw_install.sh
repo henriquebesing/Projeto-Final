@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Projeto Final
+
 #Script utilizado para realizar a instalação dos samples no dispositivo local.
 
 echo "Script iniciado!"
