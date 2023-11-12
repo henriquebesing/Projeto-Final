@@ -9,3 +9,5 @@ Desenvolvido pelo Google, o Android é o sistema operacional mais popular dentre
 O trabalho realizado possui como objetivo analisar a efetividade na detecção de malware dos aplicativos de antivírus mais populares na plataforma Android. 
 
 A avaliação foi realizada submetendo os produtos analisados a um script que executa 150 amostras de malware em arquivos APK. Como resultado da análise, pretendemos apresentar um panorama sobre estado da arte dos aplicativos de antivírus disponíveis no sistema operacional, e avaliar a efetividade dos produtos mais utilizados pelos usuários da plataforma.
+
+O conjunto de dados de malware utilizado nas avaliações está disponível [neste link](https://drive.google.com/drive/folders/1mDSAt6VlmC_5GgVdN5Arn2rUTQoXELfU?usp=sharing).
