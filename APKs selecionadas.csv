@@ -1,0 +1,571 @@
+Nome do pacote,Quantidade de detecções no VirusTotal,Tipo de ameaça,Categorias de ameaças,Família de malware,Tamanho do arquivo,Data do primeiro scan no VT,Data de adição a base de dados,Função hash SHA256
+rjbqb.hez,36,trojan.locker/congur,"trojan
+dropper
+pua","locker
+congur",3.38MB,04/10/2021 23:57,23/04/2022 15:02,0162ED3FE0186A40373FD26A98168FF4A07C32690673E91F159F46C6D08914BD
+tfcqzk.lofst.hkgkaucmthtsmy,34,trojan.hqwar/cerberus,"trojan
+banker
+dropper ","hqwar
+cerberus
+bank ",1.54MB,30/05/2020 06:11,23/04/2022 16:19,0258FC4CB74F7ED7F80B584DF34583B309DFF5D438C0E14C06DC1D3943D8EC80
+com.kascend.chushov,35,trojan.boogr/drop,"trojan
+dropper
+pua ","boogr
+drop ",15.15MB,30/12/2020 07:55,23/04/2022 18:24,06C6C66C953F62DEB53236C8E6C4F683E19C7133FEFF73BFD37686D196F08970
+cn.inssgame.paokugame,35,adware.dowgin/andr,"adware
+trojan
+dropper","dowgin
+andr ",10.35MB,08/01/2021 08:37,23/04/2022 18:34,07121BA22DDA6DDC3E4035B87E1638A46F2DD7206C052A0942D71E558E6DDACB
+com.sss.naoyan,33,trojan.skymobi/smspay,"trojan
+pua","skymobi
+smspay
+smsreg",7.99MB,08/08/2021 23:34,23/04/2022 18:43,0651D8350360289E6CEEC72095514F90A3A1DB1DAE65EEA6EA27ED984BF1CC8D
+com.vbdcf54.d2b25,33,trojan.dowgin/penguin,"trojan
+adware
+dropper ","dowgin
+penguin ",9.59MB,08/01/2021 09:13,23/04/2022 18:54,05B7DBE31E11441B8D337FB4A6B66450860175CCBA9954AB7F19B1AA2FE0BE51
+com.yoojar.zlsg.baidu,32,trojan.smsreg/andr,"trojan
+pua ","smsreg
+andr
+smspay ",4.26MB,15/07/2020 08:05,23/04/2022 19:05,07F60CD535A5D6C2A1FCFF1238C1F317C965BD0E7B8E44AB26E93DA648C87223
+com.evilsunflower.reader.evilYufang15,32,trojan.kungfu/droidkungfu,trojan,"kungfu
+droidkungfu
+adrads",1.04MB,22/04/2020 12:38,23/04/2022 19:16,08AD4495A3B3CF0831A541E3977C58D168B4EB89B47E39998E2DEA1D1F51C017
+com.fone.player,34,trojan.feejar/smsreg,"trojan
+pua","feejar
+smsreg",6.82MB,11/11/2021 12:32,23/04/2022 19:26,07BA0D45CC3F7087E91FD755434699A8F4518AD73B15FF4F22AC46FD0A5BDDDF
+com.cosina.game.activity,39,trojan.kungfu/droidkungfu,trojan,"kungfu
+droidkungfu
+fokonge",195.59KB,07/06/2021 04:15,23/04/2022 21:39,069CE2555BC91AE6E9872843B696210E987C69F219B06F0B2D763DC5E67F15F4
+gcfscmmtue.mdzrsksczphmec.syq,34,trojan.anubis/bankbot,"trojan
+banker
+dropper","anubis
+bankbot
+cerberus",2.65MB,30/12/2021 00:18,23/04/2022 21:41,05B5E5C3F137413DA8E304B141F464BDAE154B91B08F97BFBC4A840785517BF3
+com.kepan.rxtk,32,trojan.smsreg,"trojan
+pua
+virus",smsreg,8.35MB,06/06/2021 04:45,23/04/2022 21:47,0186CE827184AB1832893782D3E887414DD7DDAB103CF87AC2DB49DA3D3B8B2D
+com.bluefir.fivetotem,32,adware.airpush/andr,"adware
+trojan","airpush
+andr
+arpush",15.68MB,27/09/2021 23:59,23/04/2022 23:25,041FF7E0559E79F08E058FBABCB204D17CB5F8E0CFC5A850193966EBF70BE75E
+ru.jabox.android.smsbox.jokebox,32,trojan.boxer/smsreg,"trojan
+pua
+virus","boxer
+smsreg
+andr",154.08KB,26/09/2021 23:35,24/04/2022 00:33,06E35BFAA264070A8B8BA880FF02AFFA0BEBA39715771ECE2991E6AE77BDB7F6
+hjrbownpcx.mmscddasij.hqfysnajqrodywpjixft,36,trojan.bankbot/hqwar,"trojan
+banker
+dropper","bankbot
+hqwar
+anubis",3.22MB,30/01/2022 01:46,24/04/2022 01:46,05AB401F23F1F4720D3E857A0F63F644E84876E43DB097FE0CA4FD2F4B9088AA
+qiu.com,33,pua.drolock/dnotua,"pua
+trojan
+virus","drolock
+dnotua
+locker ",2.08MB,04/06/2018 08:54,24/04/2022 01:46,040BA67FE6C1C3771424B45F2B8058DEA4DB0E59506EEBD7DEA62BEFEC6AEA96
+com.google.android.yrtdsfh,39,trojan.smforw/smsspy,trojan,"smforw
+smsspy ",33.41KB,11/12/2020 08:49,24/04/2022 01:47,09A5DEB3219BF3B9B31814E861FC97AA5B29061E8622C31B79FE826EEBE6BD63
+com.android.mobilephone,39,trojan.spyagent/fgyl,trojan,"spyagent
+fgyl ",2.79MB,12/03/2021 15:27,24/04/2022 01:48,0838387D0C1A9FD626DD0E67FE13A64E27DF624EB4FBF5C680473552B49EAFCC
+rsoiogtjulaok.cieldreweq.hbdjtupunuq,35,trojan.cerberus/hqwar,"trojan
+dropper
+banker","cerberus
+hqwar
+andr ",1.41MB,06/09/2020 17:07,24/04/2022 01:49,017584FA4AE2E2B0F1176859A3E9744ED06371EC729B48D9767BBD13905CAAD4
+yeyrm.ywoqeyfxty.hdp,40,trojan.hqwar/anubis,"trojan
+banker
+dropper ","hqwar
+anubis
+bank ",3.14MB,22/02/2021 08:52,24/04/2022 01:49,09835068A3F1F76D1F4705287D240F2E9B4E1917B2E5D1269D54A7045C9B2206
+com.android.system.admin,34,trojan.obad/andr,"
+trojan","obad
+andr ",83.72KB,01/05/2020 09:33,24/04/2022 01:50,040872A1A4C8EB745ADA8BAD8CE18054C22C5FB6B23D9ED809D45304AD61AB83
+com.lfnb.ccrh,38,trojan.foos/wroba,"trojan
+banker
+dropper","foos
+wroba ",277.36KB,11/12/2020 08:52,24/04/2022 01:50,0A7633C22199178C18A27CAE21875D86F91D608ACF6A5D6C29EEDFFF825685A0
+oaskok.rjsbiydsjifexwubpyuomxy.zslzeeeyzmnfnttztj,39,trojan.hqwar/anubis,"trojan
+banker
+dropper","hqwar
+anubis
+bank",3.15MB,22/02/2021 08:51,24/04/2022 01:51,08C07DD023761E08BBDA78B3AB6D13E626265C19136BFA2E4FF46B73D4A720FF
+rjpmscxyoicgj.rcmuksahjbgmzodorjn.pebcsfmlgnqxshaierbhj,34,trojan.hqwar/cerberus,"trojan
+banker
+dropper ","hqwar
+cerberus
+bank",1.81MB,12/09/2020 11:42,24/04/2022 01:52,0ACFD3AF34D9A63890B17708C15EEE4E6156194122A884FC19B184C692C9FAFA
+com.kbwork.dygaqy,34,trojan.fakenocam/bankbot,trojan,"fakenocam
+bankbot
+fgxm ",16.19MB,23/10/2020 07:31,24/04/2022 01:53,086D7DB298DB2AC895AEA194D02F6E19183E0DCE9444221610D43F06DF9F0A18
+com.pqas.xrzm,32,trojan.bank/dropper,trojan.,"trojan
+banker
+dropper ",292.12KB,02/06/2020 07:07,24/04/2022 01:55,065B92511FBF9C7A8262D4FF9CEB4ABC2CF1D19C75FD80B6E5AB95AC3BFAFB22
+flftowpyhygfa.kchoyulzgssarwo.mlypjkpnjqxbkxztjifzonl,35,trojan.bank/bankbot,"trojan
+banker
+dropper","
+bank
+bankbot
+cerberus",1.58MB,29/05/2021 23:06,24/04/2022 02:55,03C67802E809E75A774527C60517A5BA7FFDD496BB5EFBA91E231C45D4A971F8
+cmf0.c3b5bm90zq.patch,37,trojan.spynote/spymax,"trojan
+banker
+spyware","spynote
+spymax",6.56MB,27/05/2021 02:30,24/04/2022 02:55,03C2AB228BC1B0C452F7E0AC2777A10AABCA4BB17F70BE9203405F881E83029A
+kba.rynjocxnskapj.ekmbyjxa,37,trojan.anubis/bankbot,"trojan
+banker
+dropper","anubis
+bankbot
+bank",3.18MB,31/05/2021 23:06,24/04/2022 02:56,04DEF74BB308DE8783BC281FBE85AE09A475953426C23DC4EA9A38891FC7D833
+pnkrwxl.iqykomnngmgodc.cylhdukxyrbrkdqwiwgmtjgfztq,34,trojan.bankbot/cerberus,"trojan
+banker
+dropper","bankbot
+cerberus
+hqwar",3.26MB,28/01/2022 01:59,24/04/2022 02:56,0250F02273C8D4C45D77C5A03F5C7785F46503518810A2EC4D723820881477BB
+com.robtopx.geometrydashworld.hack,38,miner.coinhive/fakapp,"miner
+trojan
+pua","coinhive
+fakapp
+minercoinhive",1.91MB,27/05/2021 12:54,24/04/2022 02:57,03C0674A25624CCA992C7A8064F4DFA15695AEA1632B9068CA5C0F09E1D66132
+tetkong.com,36,trojan.climap/fhif,"
+trojan
+dropper","climap
+fhif",533.63KB,28/05/2021 10:09,24/04/2022 02:57,05406D0B5BAFF4E5061CC05B55B2B7B713553BDE7875BA47787EBD43DB267A6D
+com.sh.aoao.jxgl,34,trojan.secapk/apofer,"trojan
+adware
+virus","secapk
+apofer
+waps",13.80MB,08/08/2021 01:59,24/04/2022 06:48,0A50EF4125C2FA301E10A2600D784B4B841F8CA7979DF6487B68C935D8F16999
+com.gone60,40,trojan.gonesixty/gonca,"trojan
+spyware
+virus","gonesixty
+gonca
+monitor ",438.24KB,12/08/2020 01:59,24/04/2022 06:51,04A5BFADDFE6D88892AA1AB85D99B50B7EFE7AE32ED3102405B83C7F154941BB
+zqgd.bwqay.wekcq,36,trojan.andr/xgen2,"trojan
+dropper
+banker","andr
+xgen2 ",302.85KB,05/11/2020 10:39,24/04/2022 08:10,076970B9D3690A215D8489AEE83AE9B1AA157A215F6AC1207CEB2E4182C6596A
+com.voicebianshengjinglingwc.wxl,32,trojan.jiagu/rootgle,"trojan
+pua","jiagu
+rootgle
+ffxu ",3.32MB,02/06/2020 16:53,24/04/2022 11:45,01247B4F4810B45C1F8B055CF105632404E7041D45F2053CC6420A39076D0750
+com.novaspirit.usbcleaver,34,hacktool.usbcleaver,"
+hacktool
+trojan",usbcleaver,56.05KB,20/04/2020 15:47,24/04/2022 12:33,08DB067F2A8C1D2B2F3B85643F9642D08C86DCFC98A661796DBCB52303922F33
+bzyz.osqak.rcbmn,35,trojan.wroba/fhta,"trojan
+dropper
+banker ","wroba
+fhta",313.56KB,15/11/2020 09:40,24/04/2022 16:09,09D81747316A5318A9331AAA71DD62F7EE3F6ADF276EDD0CE2970C47F09D8412
+com.google.hxz,39,trojan.fakecop/spyagent,trojan,"fakecop
+spyagent
+fhzv",2.94MB,22/02/2021 08:54,24/04/2022 18:50,09B39E9A305C4DDE358D426AD42026C56048B05B22A1FC6E1C99E51155D57411
+com.lyzt.bt.qipa,32,pua.smsreg/smspay,"pua
+trojan
+virus","smsreg
+smspay",4.45MB,10/10/2021 03:07,24/04/2022 20:16,01E589F50EE6071EE7A595AAB20270DDBDC02441897151A8877DE566DFEBA756
+tbps.xzlgs.vegxn,37,trojan.wroba,"trojan
+dropper
+banker",wroba,251.06KB,23/01/2021 14:41,24/04/2022 20:25,09A103E68BAB41C4423DC98F30D245E6C102B6F84AB8718DEBBE26A3D767F30F
+xoin.sctqi.crejg,33,trojan.fhtq,"trojan
+dropper
+banker ",fhtq,218.01KB,04/12/2020 08:53,24/04/2022 20:28,0AEC2F2D4951EB004831304D1E2A68844E4320E2063C3B296A3C76543542B543
+com.again_oct_postmail.lu3,32,trojan.fakecop/jiagu,trojan,"fakecop
+jiagu",4.33MB,07/06/2021 10:08,25/04/2022 07:03,0B466D974DD468144E67101BBC6E2CA45EA0AC47A81E1F3F211A6087633349BA
+com.jr.narutoii,33,trojan.skymobi/smsreg,"trojan
+pua
+virus ","skymobi
+smsreg
+andr",11.49MB,27/05/2020 09:36,25/04/2022 11:35,0B865A452015562A5772197DDAC15B0583EAEB73E698400A826E29D993D25930
+com.android.msc,32,trojan.boogr/zitmo,trojan,"boogr
+zitmo ",331.82KB,08/07/2021 11:27,25/04/2022 12:00,0858218A5681BDA685DDDE948FB987AECC2C06BE6277814B338106A4E09C369F
+com.android.googleapi.ttzzgg,32,trojan.mlasdl/spyagent,trojan,"mlasdl
+spyagent
+zitmo",655.67KB,08/07/2021 11:31,25/04/2022 12:41,05B6ED3C0C0BD747E65710CD2002C49F5CAEC9815890A2B6775287B0C5447E73
+com.cncd.japan.janli.shudu,32,adware.dowgin/feiad,"adware
+trojan
+virus ","dowgin
+feiad
+andr ",1.26MB,03/08/2020 08:12,25/04/2022 15:19,0AC6F60B7B85914F9F72FD2A44CB3F587C040A83B880225DB8559ED00055A2DF
+com.livegame.wallpapermingche,34,trojan.droidkungfu/kungfu,"trojan
+adware ","droidkungfu
+kungfu
+droidkrungfu",942.72KB,24/04/2020 16:41,25/04/2022 16:16,066CF3A45E8E8E293B95755AA4F5FF685B8F5E04E4592C1DBD9A037C3CFEC178
+com.hgperfko.yaeghrwx,33,trojan.monitor/monitorminor,"trojan
+pua
+virus","monitor
+monitorminor
+mobifence",1002.55KB,03/06/2020 10:07,25/04/2022 16:19,0825D025F0D151E3BC35BE7F411FDB32A15AC9C11547767528C3D923901366B8
+com.ying.hzblhj,32,trojan.smsreg/secapk,"trojan
+pua
+virus","smsreg
+secapk
+andr ",4.24MB,14/10/2020 18:32,25/04/2022 16:20,02A978711897BE2310DA1F54AC14E5C5E8D224DE1F7BC74F2D2BD9143B4CFBB6
+anubis.bot.myapplication,37,trojan.anubis/andr,"trojan
+banker","anubis
+andr
+bankbot",365.84KB,25/10/2021 07:00,25/04/2022 16:25,090B5FB792B62225DF6CA55FAC2D96B630D596A61B7071009E0084056D04240A
+com.uc108.mobile.sdgj.bd1,34,pua.skymobi/smspay,"pua
+trojan
+virus ","skymobi
+smspay
+andr ",21.53MB,02/10/2018 00:51,25/04/2022 16:27,00A7D27B66841D21FB5D84AFA3544F009237E45CDFB65FD5E64E49D8ABD1387F
+com.huzhu.com,33,trojan.locker,trojan,locker,4.62MB,24/09/2021 19:22,25/04/2022 16:31,0925480909C19FAB22B47C70557C23E8A693B5A4800B0D330B80E3A04DDA3E09
+com.keji.danti1052,37,trojan.basebridge/basebrid,trojan,"basebridge
+basebrid
+anserver ",838.05KB,26/04/2020 19:10,25/04/2022 16:38,060AC4C7D16340D1441162EEA799B917DFD03A9856083AD3035560E555C29069
+Jk7H.PwcD,37,trojan.fakeinst/opfake,trojan,"fakeinst
+opfake
+trojansms",43.64KB,15/10/2021 04:47,25/04/2022 16:41,07094CFAF101FA5561BFBF498914B203F1449FA12343F0A00CA653D4B77DF259
+io.dcloud.H5BC6BF13,37,trojan.ramnit/abcd,"trojan
+dropper
+virus ","
+ramnit
+abcd",3.85MB,27/05/2019 13:42,25/04/2022 16:42,038BC7E2168931A1CCA05F45575329CE7091CA07747D001D282E599D6F9DEBAC
+com.evilsunflower.animalpuzzle,34,trojan.kungfu/droidkungfu,trojan,"kungfu
+droidkungfu
+legana",1.80MB,24/04/2020 12:35,25/04/2022 16:45,07D9903606D2904FE309FD1FE3C0E230B13BB6F444174173603F8FF4F6268A53
+com.lyf.tkhlke,36,trojan.smsreg/andr,"trojan
+dropper","smsreg
+andr
+revo ",1.97MB,08/08/2018 20:06,25/04/2022 16:47,08914AA4CABE76D39879175BED2EEAB175DB9591653FB9CFCFFA17A4423A4D6D
+com.games.mengmeizhitd,32,trojan.dowgin/andr,"trojan
+adware
+dropper","dowgin
+andr
+hiddenads",11.45MB,27/03/2020 03:59,25/04/2022 16:50,0291CD3A79C16DB4DD500A2530C65A9890F3AC5BEF22522D7721FCAF40BAF5A3
+com.uwz.ihrork,36,trojan.andr/revo,"trojan
+dropper
+pua ","andr
+revo
+shedun ",1.67MB,13/08/2018 00:24,25/04/2022 17:54,0ACA9ADA298A7D8840C708D3B216FA313117DEB6C9936827091D4D2B72A8E17B
+android.dds.com,44,trojan.stiniter/cornelgen,trojan,"stiniter
+cornelgen
+andr ",374.70KB,30/07/2020 02:31,25/04/2022 18:00,0A16684B8AD30D858F5A369073960E1556F54BACDFA2763DE55599FFBA7ACD2A
+com.keji.danti672,34,trojan.basebrid/basebridge,trojan,"basebrid
+basebridge
+anserver",847.52KB,22/04/2020 14:54,25/04/2022 18:01,0AB9698F202E7EBAAC563CEC05CA7169A2C77DE112413D549CF504F6622256CA
+com.keji.danti424,43,trojan.basebridge/basebrid,trojan,"basebridge
+basebrid
+bbridge",1.79MB,23/04/2020 14:09,25/04/2022 18:02,0A71717947A62AB067F0AB52E565278A3AB6A86BD090DD9BB0EDDDC1DF5D772D
+com.i6c9eafaae9cd0a13,33,trojan.dnotua,"trojan
+pua",dnotua,2.00MB,02/01/2021 00:36,25/04/2022 18:04,0AAF2AD62192CF3146CCC5DBFC97BD7145247C9AB3EC78B7142769D02B4CE1A7
+com.tobyyaa.superbattery,38,trojan.pjapps/adrd,"trojan
+spyware
+adware","pjapps
+adrd
+andr ",238.31KB,14/03/2021 01:03,25/04/2022 18:33,09B511BC99C3ADA245F6F1EB2ED947D74E4C0F05882693F449CA539AB60E2215
+cn.com.opda.android.cleanup1,43,trojan.lotoor/droiddream,trojan,"lotoor
+droiddream
+rooter",115.41KB,23/04/2020 14:12,26/04/2022 16:58,02B541F678027ACB36B564F382A1CD42825E04BD7586E93202C196597369DA7D
+pj.ishuaji,43,trojan.lotoor/andr,"trojan
+hacktool","lotoor
+andr
+androot",3.53MB,05/05/2021 21:53,26/04/2022 17:21,0030C86890E39C6AF68A1D51236B733B267D144BAA880F6FDAECF87B7A688CBD
+com.alan.weather,37,trojan.droidkungfu/kungfu,"trojan
+adware ","droidkungfu
+kungfu
+andr",436.74KB,26/04/2020 19:05,26/04/2022 17:37,090713FF22BC41A3FAB59F29B855DABD29410109A0A0CAF9C7769A93B48E51C8
+com.pereira.ichess,35,adware.mobidash/mobi,"adware
+trojan","mobidash
+mobi",7.73MB,17/01/2022 07:45,26/04/2022 17:46,02EE08D431DCC06DB9A60DEF7E5C959ECFC2082D2591B42AE33BAB74F54D3BD3
+com.ps.keepaccount,35,trojan.droidkungfu/kungfu,trojan,"droidkungfu
+kungfu
+fokonge",370.46KB,21/04/2020 13:13,26/04/2022 17:50,089424DA4BDD230D4EFBE2F5E0B19D6867EF0ECB19E3835BEB94124001785645
+wap.syst,37,trojan.opfake/fakeinst,trojan,"opfake
+fakeinst
+smssend ",51.60KB,09/10/2019 04:10,26/04/2022 19:15,098C1AA0A11817DD4DB0BD930D2B1A435C3F75E1E5B4488DDF51A67A643704E2
+com.zgzt.bt.qipa,34,adware.smsreg/smspay,"adware
+pua
+trojan","smsreg
+smspay ",6.61MB,09/01/2021 08:30,26/04/2022 19:23,078D97CAB8F085FC4974494FD222951A39C53946491714BFB3CF0D312065E7A7
+com.wbs,34,trojan.geinimi/geimini,"trojan
+spyware","geinimi
+geimini
+andr ",265.55KB,21/04/2020 13:09,26/04/2022 19:34,01836D98E4A5FEF179733109BA10D5F88BBC7108E1DD3950B2E3858D64BA5440
+com.dgmh.dgmh,35,trojan.smssend/andr,"trojan
+pua","smssend
+andr
+fakeapp",18.78MB,26/04/2022 17:37,26/04/2022 19:35,07262B5329FFF798E3CD8DAB882E190962D262AD7A2B60AF691E40912149CE21
+com.safesys.viruskiller,35,trojan.droidkungfu/kungfu,trojan,"droidkungfu
+kungfu
+fokonge",465.00KB,22/04/2020 14:23,26/04/2022 19:41,030EAFA06BFDBBBDB29F7F7B6211A9D35C96A4483E4840DAA395DFC5BFC3F798
+com.huzhi.com,39,"
+trojan.fakeapp","trojan
+adware
+pua ",fakeapp,1.78MB,23/08/2021 23:13,05/05/2022 14:18,0819561C2520C1DE4FA81C9CEFA1FB0456916ECBC49B82624897B31D99E2C8A7
+popxxx.t0720.z01.iqiyi,35,trojan.smsreg/smspay,"trojan
+adware
+pua ","smsreg
+smspay
+triada",2.36MB,29/10/2021 12:09,06/05/2022 16:07,0915487EECA7047A3F256F44E48C81A6483457021165EF87DD6AF9C0B0FBD3F2
+pin.xin.zu.he,41,trojan.wroba/r002c0pf420,"trojan
+dropper ","wroba
+r002c0pf420 ",2.23MB,05/09/2020 23:37,06/05/2022 16:09,08734A9492401C688844570D545BDC89D01D84005660C84E22F5E63E437E563A
+com.deki.bmsn,34,trojan.wroba/andr,"trojan
+dropper
+banker ","wroba
+andr
+frhd",451.88KB,25/09/2020 11:39,06/05/2022 17:31,06368BC23D25BA7F7F7F0891730F0D4ADD2450D9D58CF6F9A4328BDF394F148D
+com.rjtq.ogmj,33,trojan.wroba/andr,"trojan
+dropper
+banker ","wroba
+andr
+ffxm ",431.99KB,24/09/2020 12:23,06/05/2022 17:36,06586472FFF7F3BED3FC6503FB8FD406CD00364486F689CE21F15825A5EC40A9
+com.qiuqiu.dfmc,35,trojan.dowgin/fran,"trojan
+adware
+dropper","dowgin
+fran
+zpevdo ",3.89MB,24/09/2020 12:58,06/05/2022 17:47,046743824E2AA67D2AA3774CCE7E9A5C3BCBFDC507A09D559BBAA57E09828AAF
+nai.rou.le.ke,40,trojan.wroba/bank,"trojan
+dropper ","wroba
+bank
+fakecop",2.23MB,11/08/2020 19:00,06/05/2022 19:49,01E4A3189A562450AB7E927B556590A3A17879C87630201E7A4C35A08BFC7D1C
+com.iapp.gonjubao,39,trojan.,"trojan
+dropper ",,3.14MB,22/04/2020 17:41,06/05/2022 20:01,01411844D63ECC8EF3A03069D314EE6F3D4064E7A40CFA9AFA90EA74E3E96182
+com.zu.zu,39,trojan.fakeapp/fakmod,trojan,"fakeapp
+fakmod ",4.92MB,06/02/2021 13:28,06/05/2022 20:18,04527FADECFF079114959E4A7D0B63819B95523E45549DD49C2E151F8EF32688
+bie.nao.bai.tou,38,trojan.wroba/r002c0pem20,"trojan
+dropper ","wroba
+r002c0pem20 ",2.23MB,06/06/2020 06:59,06/05/2022 23:07,08C55C4A2796E0B3B02E85A530E74AE2F6EB758D721DDE5DD31C46A434502B68
+com.keji.danti420,41,trojan.basebridge/basebrid,trojan,"basebridge
+basebrid
+bbridge ",1.81MB,23/04/2020 12:55,07/05/2022 03:38,02FF0F07CE404AB3026A31E2760CF96E022AB9EA083FB05145649ADB4B9C6D36
+com.talkweb.ycya.free,39,trojan.sendpay/shastrosms,trojan,"sendpay
+shastrosms
+andr ",1.60MB,03/08/2020 02:25,07/05/2022 03:43,03646B85A5F4F302EFA7FF9C87220C15D9BB54FEBC340DE3E290C5834711F5EA
+com.buidu.MX,32,trojan.andr/fakeapp,"trojan
+pua","andr
+fakeapp
+yoga",903.47KB,21/10/2021 07:05,07/05/2022 08:27,00DC5D3E7B986C489BD826111CA2B622BC84281E244A32C0BF61D9F2ED515E47
+com.metasploit.stage,38,hacktool.metasploit/meterpreter,"hacktool
+trojan
+downloader","metasploit
+meterpreter
+remotecode",8.60KB,18/02/2022 19:26,07/05/2022 22:35,026D251CE05BE1AEE5A866ECA1FE1DD25A0C49EEB7A40503F842051EDAE78A34
+cgf.rqemaoif.cwgc3_hbtprvd_hjb,32,trojan.ginmaster/gmaster,"trojan
+adware ","ginmaster
+gmaster
+gingermaster ",1.05MB,04/09/2019 18:34,08/05/2022 23:44,049A8146ACC57156420147588DA8845107C8D7045F006DF70C12B5B5B56A0988
+com.android.buyer,33,trojan.fakeapp/rootnik,trojan,"fakeapp
+rootnik",146.06KB,25/08/2018 05:48,09/05/2022 02:13,01A44670EB663CFDB92321300B1DEB29F824DC06525D3C2EA061D76B793276DC
+com.google.service,36,trojan.androrat/climap,"trojan
+spyware ","androrat
+climap ",238.34KB,20/07/2020 23:46,09/05/2022 07:39,09971DBA90958F1C42A6F1371AE41FFEF61467B1DC86361F368881065F9A71C1
+com.ck.services,36,trojan.autoins/ewind,"trojan
+downloader
+adware","autoins
+ewind
+andr",1.33MB,23/07/2018 18:10,09/05/2022 11:53,0B29A557024CD2F947D312C89FAC3B09B2CA7386EFBD9EA8D87032F407FC4EB7
+test.root0911,32,trojan.rooter/leech,"trojan
+downloader","rooter
+leech
+hiddenapp",2.31MB,12/07/2018 18:26,09/05/2022 15:43,02EF2535B52788DB794C08A3B15248DDE73ED7E7F1FBD3792D496C5A23147A82
+com.xmjrsbt.jlhd.hq,33,trojan.smsreg/smspay,"trojan
+pua","smsreg
+smspay",3.38MB,13/01/2022 12:01,10/05/2022 10:17,020FF16FC8BDAC1F60B67AE8D167BA6CAABB684712E0C69CC394FE9739E8082E
+com.game.tangguo,37,trojan.smspay/joye,"trojan
+pua
+dropper ","smspay
+joye
+mars",2.15MB,21/09/2018 09:43,10/05/2022 15:52,05ECE78376CD87616B903355116679A97D7B623BEDFCF7DF86D353A06CA2D091
+dSB3.lu6,37,trojan.fakecop,"trojan
+banker",fakecop,397.89KB,10/07/2022 10:13,10/06/2022 09:30,095FED48657F04DF47637FEB8C9BE64817688BDA29640C23BDB6D4F1AB20676D
+oqp9.lu6,37,trojan.fakecop/spyagent,"trojan
+banker","fakecop
+spyagent","
+691.61KB",10/07/2022 10:26,10/06/2022 09:42,02CC50DF257AA39087B70932915BB8A5522EA1ACF8C2F2DE639F7837A012A7F6
+com.xiaofei.vnfuzhu,34,trojan.smssend/yoga,"trojan
+pua","smssend
+yoga",1.80MB,03/08/2022 07:37,21/06/2022 16:12,049FB8E2D78025000ED642A53344BD71490B88ABE4C17C8AF215204BC5E231FD
+jjae.ynjlap.phgwnl,33,trojan.,"trojan
+banker",,208.25KB,03/08/2022 11:37,21/06/2022 16:27,05789F84DDBB1DC6AC423CB174ABBAA78F12B4D25E353901A2C823E9BE1C1A3B
+com.zcretrodreamer.zcIceCreamJump.zcandroid.free,32,adware.kuguo/jedan,"adware
+trojan
+virus ","kuguo
+jedan
+goyear",4.97MB,20/08/2022 03:01,28/06/2022 08:57,01AC14C19CB02AE9F3C2B9DA521D978F48D71949E9C63F5CF60A83BA75BFCA56
+com.whtd.truntabledx,33,adware.kuguo/addisplay,"adware
+trojan
+downloader","kuguo
+addisplay
+andr ",8.02MB,15/09/2022 13:45,05/07/2022 12:50,0019D910C0908C2E39C897FBAE11E15216D37F1C732D5EC21E58BB14BD1E095B
+com.intensive.sound,37,trojan.hiddenad/fakeadblocker,"trojan
+adware ","hiddenad
+fakeadblocker
+hiddena",916.06KB,02/10/2022 22:25,31/07/2022 13:43,00D502C69F160754E66C3279ED2EAEACB68BB7FE023B42F72F3DA64973EAC57E
+com.hjwy.wd0d.vlj,32,trojan.smspay/andr,"trojan
+pua
+downloader ","smspay
+andr
+triada",6.38MB,09/10/2022 15:19,16/08/2022 11:51,0680E13C7C9DAC10E1543C0BAD222D283631CAFB0ECBBE086E8959F97C1A575B
+can.skill.dentist,32,trojan.bankbot/hqwar,"trojan
+banker
+dropper","bankbot
+hqwar ",4.10MB,12/10/2022 19:02,25/08/2022 21:38,07DAA50CC53222D995FDC500F2BB15CEB60EB6372A1E5C6498F4B40FE293B496
+com.Management.app.flash,37,trojan.jocker/joker,"trojan
+downloader ","jocker
+joker ",6.72MB,12/10/2022 17:13,26/08/2022 15:29,06F92AA517A7DE880671056FB782E0BDB92A1CC2442FC144E9890162865F00E8
+com.qfxzhr.Group_name,33,pua.resharer/locker,"pua
+trojan
+virus ","resharer
+locker",3.07MB,12/10/2022 17:57,26/08/2022 16:51,01C7A9A3A03D6C83C724CA1A3C774A2F0876ADFFE81812163F29559C53B37AED
+net.fiveeleven.tek.views20210524,33,trojan.smsthief/fjtz,trojan,"smsthief
+fjtz
+spyagent",8.03MB,12/10/2022 18:29,26/08/2022 17:47,00F7BF8CD6BF14588BB5D5679E582DB7FE5CEA091A696B43955F730044B8ADCF
+there.discovery.excitement,33,trojan.,"trojan
+banker
+dropper ",,3.90MB,12/10/2022 19:35,26/08/2022 19:43,00C462F5B13E3BF21CC7B913719188644FAC34CFB7A80893D551BBF512BB8570
+com.zhiqupk.root.global,36,trojan.secapk/ginmaster,"trojan
+adware ","secapk
+ginmaster
+andr ",5.12MB,13/10/2022 18:36,26/08/2022 20:47,028E12E82BCA2091059A55C0CD3E01F6AEACA7D474AA6A65884538B9D9ACA484
+com.rqmubsg.jnhsbha,35,trojan.pornpay/smssend,trojan,"pornpay
+smssend
+trojansms",6.32MB,12/10/2022 20:20,26/08/2022 20:58,0950EB4426B13C6A90F7BD24C5E912E337DA81817836BC36D3F5CF7720A16EB2
+com.microgame.skater,36,trojan.smsreg/smspay,"trojan
+pua ","smsreg
+smspay
+smsagent ",6.41MB,12/10/2022 20:51,26/08/2022 21:50,0860716B288A692D2412618C9AF1B417E221CE794FEDAF8855DC716928AAC5E7
+slender.business.jacket,36,trojan.flubot/polph,"trojan
+banker
+dropper ","flubot
+polph",4.00MB,13/10/2022 09:19,27/08/2022 12:08,093A65F30E9340B2A0E27228FE678426295FF97B934024EDA5B8D080A8987D3E
+com.nowsecure.android.vts,36,trojan.stagefright,trojan,stagefright,3.29MB,13/10/2022 09:25,27/08/2022 12:15,0873EFDB9EF46355ABAF292851D7E2B67CF806A27A9F0D229A8078F202DC852E
+com.oaakxqhl.lolwxjv,36,trojan.bian/bankbot,"trojan
+banker
+dropper ","bian
+bankbot ",3.34MB,13/10/2022 11:06,27/08/2022 14:46,0B20ACCAC922DE51E34A7DC637841D6071C92929AE9DC566F043B268871B58DC
+com.cdnb.w003,34,trojan.fakecalls/bankeragent,"trojan
+dropper
+banker ","fakecalls
+bankeragent ",13.51MB,13/10/2022 12:10,27/08/2022 16:30,08AEB8D7E17B7114D5019EA7BE120BC03E416806BD9A608BFE431F8933C1BB9E
+com.ym.refpackage.Hjzj.baidu,34,trojan.drop/loki,"trojan
+dropper ","drop
+loki",9.92MB,14/10/2022 09:54,28/08/2022 13:44,0038E7A13A9D44BC9CC1FBDF6772C664EB78B7B7F81213D2112481E3B170B010
+com.songhongtao.sht,36,trojan.fakeapp/yoga,"trojan
+pua
+virus","fakeapp
+yoga ",4.72MB,14/10/2022 09:56,28/08/2022 13:46,027FB698E90B06CCC70928227AC273EC68DB1855166E91CABA168F31AF152DE2
+com.hs.rjk,32,"
+trojan.dnotua/locker","trojan
+pua ","dnotua
+locker ",3.16MB,14/10/2022 09:58,28/08/2022 13:49,035F9D47AD6267402B924B9B6412299AE2953EF50FBB9800B434C17FE005013A
+able.version.fever,35,trojan.hqwar/bankbot,"trojan
+dropper
+banker ","hqwar
+bankbot
+fjvw",2.64MB,14/10/2022 10:01,28/08/2022 13:53,057809E3B42B8B7A4F437A8CDBED5F7B78DA66127794F8A9BF4F686693544BE3
+com.example.eroplayer,33,trojan.erop/rusms,trojan,"erop
+rusms
+smssend ",1.01MB,14/10/2022 10:04,28/08/2022 13:56,06200E4F942B86E160469926A79FDBCAAF776972C8135CB180756282ED1A12F7
+kmfci.ydec.kcsftc.sdy,35,trojan.wroba/r002c0pkk21,"trojan
+dropper
+banker","wroba
+r002c0pkk21",473.86KB,14/10/2022 10:07,28/08/2022 14:00,040B50BDBD023E584E67056F40575753DA0FA15179529C3C1EF6951C1B397978
+segment.coral.blanket,35,trojan.boogr/bankbot,"trojan
+dropper
+banker","boogr
+bankbot
+hqwar ",3.02MB,14/10/2022 19:06,28/08/2022 14:01,056D2705BCED05E78209E95C0FD5314F1714ED9DE7103FE39AE769B0EC42188B
+host.meadow.inmate,33,trojan.bankbot/boogr,"trojan
+dropper
+banker","bankbot
+boogr
+hqwar ",2.92MB,14/10/2022 10:19,28/08/2022 14:13,061A13193D6F743C67C486A64FE50BE243132DF2FB414CE01B554BF87BA871C5
+com.foresight.mobowifi,35,trojan.rootnik/rooter,trojan,"rootnik
+rooter
+godless",4.05MB,14/10/2022 11:16,28/08/2022 15:21,062F81E8DD310806553579728DD13DEE2A16799473CBAA807BCCF007BE4C0441
+outer.kitten.thunder,33,trojan.bankbot/hqwar,"trojan
+dropper
+banker ","bankbot
+hqwar ",3.26MB,14/10/2022 11:22,28/08/2022 15:28,02EBE0313F7C1D5A52CD5B317695C262F5466662DA69A456BCAA759A9B476A4D
+com.gsf.duopyj,38,trojan.wapnor/shedun,"trojan
+dropper ","wapnor
+shedun
+revo ",2.15MB,14/10/2022 11:25,28/08/2022 15:32,0908F4037C5969A5CE882FEF947894404DCD70ECAE7E614787F6544AFE120BA9
+com.swivvtvzoky.ktmuzxo,42,trojan.cerberus/bank,"trojan
+banker","cerberus
+bank
+bankbot ",133.42KB,14/10/2022 11:30,28/08/2022 15:38,075352F0F8AC06163F06380FBA36D778046E5C9CE3FFA15EF082F2EA1FEC09EB
+com.gupocufbbxbijsq.gtenurim,38,trojan.cerberus/bank,"trojan
+banker ","cerberus
+bank
+cebruser ",133.42KB,14/10/2022 11:33,28/08/2022 15:41,0706AFF99DDB41D810D081490CB6B2B70D9EE0092A642716D7CE28011CE616A5
+com.yang.game.dds,34,trojan.secapk/gumen,"trojan
+pua ","secapk
+gumen",6.36MB,14/10/2022 19:05,28/08/2022 15:47,08D080244CA7036A6DB238FA3AF98F8722F57FF628CDD0198D391AE0C7B708E4
+com.eyelid.steady,35,trojan.fakeadblocker,"trojan
+adware
+pua ",fakeadblocker,213.86KB,14/10/2022 11:40,28/08/2022 15:49,0AECAB5E81D4399065DD40948DA2271E577DB0049A5FA5F008B9DE233DD11EC2
+com.kp1874,37,trojan.dnotua,trojan,dnotua,1.85MB,14/10/2022 11:57,28/08/2022 16:06,0333B5E1D1BE762BDB6BBCD5FD54409A3A47822AE7A2A223B22B77740981DCDA
+com.shrimp.major,36,trojan.bankbot/cebruser,"trojan
+banker
+dropper","bankbot
+cebruser
+hqwar",2.66MB,14/10/2022 12:04,28/08/2022 16:14,00EC32AE4B2F32C99A8053FB0B7A5DACDFDAD2FA1981F058919CC484B4A5924C
+xizyt.few.uv.iivn,32,trojan.wroba,"trojan
+dropper
+banker",wroba,473.62KB,14/10/2022 19:05,28/08/2022 16:16,033121FE85D0738EE1020885B7DA171DE1F485A58189DFDA52CFE89DFEFEE603
+lakshmidevi.lakshmimata.laxmidoorlockscreen6,36,trojan.hiddenad/hiddenads,"trojan
+adware
+dropper ","hiddenad
+hiddenads",384.04KB,14/10/2022 12:12,28/08/2022 16:23,09DA368AC2635269BC5E17224836C4A0D8D987E1B91E817536A49AD1F31A86D2
+cricket.antenna.copy,34,trojan.bankbot/hqwar,"trojan
+banker
+dropper","bankbot
+hqwar ",3.64MB,14/10/2022 19:06,28/08/2022 16:29,0AF5DA136D819F9A99A2E3F66BBC5B641AE6A3C7F060B0FFF771B05CEC625AA2
+com.termuxhackers.id,37,trojan.locker/slocker,"trojan
+ransomware ","locker
+slocker
+boogr",2.46MB,14/10/2022 19:05,28/08/2022 16:33,01BD75F0DA798BE5F162B98A7EE91BE4582ED8735863F2623593D968FBD5A028
+auction.ceiling.spoon,35,trojan.bankbot/hqwar,"trojan
+dropper
+banker ","bankbot
+hqwar ",3.18MB,14/10/2022 12:22,28/08/2022 16:35,06CD6615089297C72DA04561FFD8C65676304ABA74D684AB0559159EFFBABF4F
+ch.nth.android.contentabo_l01_sim_univ,33,pua.smsreg,"pua
+trojan
+virus",smsreg,4.58MB,14/10/2022 12:28,28/08/2022 16:42,03239D4DD6310B83200EBC3842BB16B4C374BF2FD97C358B74A1A6914670902A
+crime.fashion.dentist,36,trojan.hqwar/bankbot,"trojan
+dropper
+banker","hqwar
+bankbot
+fjvw ",2.57MB,14/10/2022 12:32,28/08/2022 16:47,0B018C290DBB5AA2AF3F324F2A83C6654D5A47E4026413A6A082623BF2E35787
+com.hkfvidtmuwfaekmx.dlfjwxiakhkcpqd,37,trojan.cerberus/bank,"trojan
+banker","cerberus
+bank
+cebruser ",133.41KB,14/10/2022 12:41,28/08/2022 16:57,0AF86E1888A23AD365DE7E1D8E5F7A8900D3047321557C6A0F3B2C3822D094B6
+com.agxshi1893.bis1893hxg,35,trojan.dnotua/fakeapp,"trojan
+pua
+adware","dnotua
+fakeapp
+fakegame ",1.42MB,14/10/2022 12:44,28/08/2022 16:59,018D865375106953FBDE27A2043948F8D7251907002658078DBCD1F95083B2B8
+qtggtfpiydqiikhbndreqabpjlb.deupxo.orrsdcgrckebmqzu,32,trojan.cerberus/hqwar,"trojan
+banker
+dropper","cerberus
+hqwar
+bank",1.31MB,14/10/2022 12:54,28/08/2022 17:11,02C78C35F8387E716CE72F3FF1FAEC5C1CE7C775C99A5104634119EF28031B9E
+ermmmug.hxkkytzb.bvbfc,36,trojan.fakecalls/spyagent,"trojan
+banker ","fakecalls
+spyagent ",13.03MB,14/10/2022 13:03,28/08/2022 17:22,05D10AC1F0B183973CD99D43079973DD81C9427E30ADA28CC61DCF020B110DE0
+slam.cross.educate,34,trojan.hqwar/bankbot,"trojan
+dropper
+banker ","hqwar
+bankbot
+fkal",3.20MB,14/10/2022 19:06,28/08/2022 17:25,0608B5AA8D55635D2DED45467144ECBF1F50D10BCCA4747AF663DD52A3FE442D
+com.sqjuuzpr.ryxjuzs,36,trojan.bian/bankbot,"trojan
+banker
+dropper","bian
+bankbot",3.21MB,14/10/2022 19:05,28/08/2022 17:27,03C8CBA14139423EC179759052B178852EF7A3884A969876C2123BEC7F7F8C65
+waXa6.ppt,32,trojan.fakecop,"trojan
+spyware ",fakecop,414.09KB,14/10/2022 13:37,28/08/2022 21:15,00F20A0D136846621D75D88E800E589B1C0612E461128A8FF73C85BD8C788B27
+com.eg.android.AlipayGphone,32,trojan.bankbot/bank,"trojan
+banker
+dropper","bankbot
+bank
+bian",3.85MB,14/12/2022 23:15,14/11/2022 17:42,06DBF0E0BFAB9F74C0744B8FE29BEC1CF48171BCE9DF7FF56BE34A62BABF15D2
+com.yadsssaawefnt.yyyfaa3a22eaa,33,trojan.lcvihrz/remotecode,"trojan
+dropper ","lcvihrz
+remotecode
+uselvgt23 ",523.11KB,25/02/2023 11:04,26/01/2023 20:02,07A270FE5D72D642298FEFC64282C744EC2FAEC535A02FF012BF4B4824131D23
+com.init.env,41,trojan.lotoor/triada,trojan,"lotoor
+triada
+andr ",448.20KB,15/07/2023 10:19,15/06/2023 09:36,0916D550A140B5C87FB87F08E276AD0D1040B579BA77B99D901FB8394DB64890
